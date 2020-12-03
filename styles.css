@@ -4,8 +4,7 @@
 }
 
 h1{
-    text-align: left;
-    margin-left: 30%;
+    text-align: center;
 }
 
 body{
@@ -14,7 +13,6 @@ body{
     background-image: url("imgs/double-bubble-outline.png");
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-
 }
 
 nav {
@@ -33,6 +31,7 @@ ul {
   
 li {
     float: left;
+    display: inline;
 }
   
 li a {
